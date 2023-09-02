@@ -14,10 +14,8 @@ Amount by Week and Category:Sales fluctuate throughout the weeks, with certain w
 These insights can guide decision-making in various areas such as inventory management, marketing strategy, and customer service improvements to enhance the overall e-commerce business performance.
 <br><br>
 ****
->
-#####Project URL:  https://ap2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Ffinal%2Breport&action=view&mode=dashboard&subView=model0000018a4264bf6c_00000003 <br>
->
-#####Visualization created on : IBM cognos analytics
+>Project URL:  https://ap2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Ffinal%2Breport&action=view&mode=dashboard&subView=model0000018a4264bf6c_00000003 <br>
+>Visualization created on : IBM cognos analytics
 
 
 
